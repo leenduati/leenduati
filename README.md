@@ -1,10 +1,14 @@
-### Hi there 👋, My name is Lee Nduati
-#### IT Support Specialist
-![IT Support Specialist](https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg)
+![IT Support Specialist](https://cdn.pixabay.com/photo/2017/08/05/12/58/computer-2583383_960_720.jpg)
 
+# Hi there 👋, My name is Lee Nduati
+### I am an IT Support Specialist
+
+# About Me
 Motivated IT Support Technician seeks a position in a dynamic, growth-oriented company focused on cultivating exceptional customer experience and a positive work environment. With experience handling networking concerns, implementing new software, installing new hardware, and addressing user concerns, I bring attention to detail and a dedication to technical improvement to each job. Past achievements include new network architecture component selection and implementation, earning leading industry certifications, and driving the achievement of departmental goals.
 
-Skills: PYTHON / BASH / JS / HTML / CSS
+# Skills
+
+PYTHON / BASH / JS / HTML / CSS
 
 - 🔭 I’m currently working on PYTHON PROJECTS 
 - 🌱 I’m currently learning ADVANCED PYTHON / DJANGO 
@@ -19,8 +23,6 @@ Skills: PYTHON / BASH / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenduati)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leenduati&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leenduati)  
 
 ![GitHub metrics](https://metrics.lecoq.io/leenduati)  
 
