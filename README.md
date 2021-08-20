@@ -4,7 +4,11 @@
 ### I am an IT Support Specialist
 
 # About Me
-Motivated IT Support Technician seeks a position in a dynamic, growth-oriented company focused on cultivating exceptional customer experience and a positive work environment. With experience handling networking concerns, implementing new software, installing new hardware, and addressing user concerns, I bring attention to detail and a dedication to technical improvement to each job. Past achievements include new network architecture component selection and implementation, earning leading industry certifications, and driving the achievement of departmental goals.
+Motivated IT Support Technician seeks a position in a dynamic, growth-oriented company focused on cultivating exceptional customer experience and a positive work environment. 
+
+With experience handling networking concerns, implementing new software, installing new hardware, and addressing user concerns, I bring attention to detail and a dedication to technical improvement to each job. 
+
+Past achievements include new network architecture component selection and implementation, earning leading industry certifications, and driving the achievement of departmental goals.
 
 # Skills
 
