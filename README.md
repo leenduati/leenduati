@@ -15,8 +15,8 @@ Past achievements include new network architecture component selection and imple
 PYTHON / BASH / JS / HTML / CSS
 
 - 🔭 I’m currently working on PYTHON PROJECTS 
-- 🌱 I’m currently learning ADVANCED PYTHON / DJANGO 
-- 👯 I’m looking to collaborate on PYTHON / BASH 
+- 🌱 I’m currently learning ADVANCED PYTHON / JS / NODEJS 
+- 👯 I’m looking to collaborate on PYTHON / BASH /NODE JS .]/ JS
 - 💬 Ask me about PYTHON 
 - 📫 How to reach me: leenduati21@gmail.com 
 - ⚡ Fun fact: Hard work eventually pays. 
