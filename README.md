@@ -1,10 +1,10 @@
 ![IT Support Specialist](https://cdn.pixabay.com/photo/2017/08/05/12/58/computer-2583383_960_720.jpg)
 
 # Hi there 👋, My name is Lee Nduati
-### I am an IT Support Specialist
+### I am an ICT Officer
 
 # About Me
-Motivated IT Support Technician seeks a position in a dynamic, growth-oriented company focused on cultivating exceptional customer experience and a positive work environment. 
+Motivated IT Officer seeks a position in a dynamic, growth-oriented company focused on cultivating exceptional customer experience and a positive work environment. 
 
 With experience handling networking concerns, implementing new software, installing new hardware, and addressing user concerns, I bring attention to detail and a dedication to technical improvement to each job. 
 
@@ -15,11 +15,11 @@ Past achievements include new network architecture component selection and imple
 PYTHON / BASH / JS / HTML / CSS
 
 - 🔭 I’m currently working on PYTHON PROJECTS 
-- 🌱 I’m currently learning ADVANCED PYTHON / JS / NODEJS 
-- 👯 I’m looking to collaborate on PYTHON / BASH /NODE JS .]/ JS
+- 🌱 I’m currently learning ADVANCED PYTHON / DATA / SQL / EXCEL / R PROGRAMMING
+- 👯 I’m looking to collaborate on PYTHON / DATA SCIENCE / DATA ANALYSIS
 - 💬 Ask me about PYTHON 
 - 📫 How to reach me: leenduati21@gmail.com 
-- ⚡ Fun fact: Hard work eventually pays. 
+- ⚡ Fun fact: Hard work eventually pays.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leenduati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/leenduati/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@leenduati)  
